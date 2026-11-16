@@ -1,0 +1,43 @@
+﻿# Dependencies
+node_modules/
+**/node_modules/
+.npm/
+
+# Build outputs
+dist/
+**/dist/
+**/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs & OS files
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+**/npm-debug.log*
+**/*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Browser automation & temporary files
+.playwright-mcp/
+**/.playwright-mcp/
+
+# SQLite databases and temporary files
+*.db*
+*.db-journal
+*.db-wal
+*.db-shm
+**/*.db*
+**/.neon
+
+# npm cache
+.npm/

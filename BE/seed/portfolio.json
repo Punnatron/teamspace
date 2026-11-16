@@ -1,0 +1,288 @@
+
+{
+  "group": {
+    "name": "Quiksilver",
+    "tagline": "Different minds. One direction.",
+    "concept": "A team of third-year Artificial Intelligence Engineering and Data Science students from Bangkok University. We bring together Backend Development, Frontend Design, AI Engineering, and DevOps to build practical technology solutions.",
+    "highlights": [
+      "Three members with complementary skills in Backend, Frontend, AI, and DevOps.",
+      "Building an AI-powered group portfolio that answers questions about team members and projects.",
+      "Combining software development, data, and AI to solve practical problems."
+    ]
+  },
+  "projects": [
+    {
+      "title": "TEAMSPACE AI - Group Portfolio",
+      "description": "An AI-powered group portfolio website that introduces Quiksilver, showcases member profiles and projects, and allows visitors to ask questions through an AI chatbot.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Express",
+        "PostgreSQL",
+        "LLM API",
+        "Docker",
+        "CI/CD"
+      ],
+      "url": "https://github.com/Noshixd/AIE312"
+    },
+    {
+      "title": "Digital Asset KYC & AML Transaction Monitoring System",
+      "description": "A digital asset exchange management database covering customer KYC, account management, transaction monitoring, and AML risk analysis. The project includes 22 database tables, 7 analytical views, 16 analytical SQL queries, and an LLM-powered natural-language query interface.",
+      "tech": [
+        "PostgreSQL",
+        "Supabase",
+        "SQL",
+        "LLM",
+        "Database Design"
+      ],
+      "url": null
+    }
+  ],
+  "contacts": [
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "https://github.com/Noshixd/AIE312"
+    }
+  ],
+  "members": [
+    {
+      "slug": "noah",
+      "name": "อัสสชิ บัวชุม",
+      "nickname": "Noah",
+      "role": "Backend Developer",
+      "bio": "Third-year student in Artificial Intelligence Engineering and Data Science at Bangkok University. Interested in applying AI and data to practical systems, including web applications, robotics, and data analytics. Enjoys learning through hands-on projects, from setting up development environments to deploying applications.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "TypeScript",
+        "Express",
+        "React",
+        "PostgreSQL",
+        "Supabase",
+        "ROS2",
+        "YOLO",
+        "Docker",
+        "Git",
+        "GitHub",
+        "GitLab"
+      ],
+      "avatarUrl": null,
+      "projects": [
+        {
+          "title": "Hotel Management System - AIE313",
+          "description": "A hotel management web application covering room reservations, parking, and restaurant management, with an AI chat interface that retrieves information from the database.",
+          "tech": [
+            "Supabase",
+            "PostgreSQL",
+            "Edge Functions",
+            "Google Gemini",
+            "GitLab",
+            "Render"
+          ],
+          "url": null
+        },
+        {
+          "title": "ROS2 Person Detection and Odometry",
+          "description": "A TurtleBot3 robotics system using two ROS2 nodes: a YOLO-based person detection server and an odometry client. Includes a custom DetectPerson service, safety stop functionality, and CSV logging.",
+          "tech": [
+            "ROS2",
+            "Python",
+            "YOLO",
+            "TurtleBot3",
+            "Gazebo",
+            "Ubuntu"
+          ],
+          "url": null
+        },
+        {
+          "title": "Service Robot Kiosk",
+          "description": "A web-based user interface for a service robot, featuring AutoRun, bill payment, information display, and administrator settings.",
+          "tech": [
+            "React",
+            "Web UI",
+            "TurtleBot3"
+          ],
+          "url": null
+        },
+        {
+          "title": "Vehicle Routing Problem Solver",
+          "description": "An individual project implementing Capacitated Vehicle Routing Problem algorithms, including Nearest Neighbor, Clarke and Wright Savings, Improved Clarke and Wright, 2-opt, Relocate, and Swap, without relying on OR-Tools.",
+          "tech": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Google Colab"
+          ],
+          "url": null
+        },
+        {
+          "title": "Hotel Booking Demand Dashboard",
+          "description": "An analysis of more than 100,000 hotel booking records from Kaggle, including data cleaning, business questions, and dashboard development.",
+          "tech": [
+            "Python",
+            "Pandas",
+            "Data Visualization"
+          ],
+          "url": null
+        }
+      ],
+      "contacts": []
+    },
+    {
+      "slug": "zene",
+      "name": "ศวิตา โตประสิทธิ์",
+      "nickname": "Zene",
+      "role": "Frontend Developer & UX/UI Designer",
+      "bio": "Third-year student in Artificial Intelligence Engineering and Data Science at Bangkok University. Interested in user experience, interface design, and frontend development. Enjoys combining technology and design to create digital products that are visually appealing and easy to use.",
+      "skills": [
+        "Python",
+        "SQL",
+        "React",
+        "PostgreSQL",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "UX/UI Design",
+        "Frontend Development",
+        "Teamwork"
+      ],
+      "avatarUrl": null,
+      "projects": [
+        {
+          "title": "SMA - Smurf Mechanical Arm",
+          "description": "A robotic arm project designed to act as an intelligent camera operator, performing precise movements and capturing cinematic shots. Responsible for UX/UI design, frontend development, and photobooth frame graphics.",
+          "tech": [
+            "React",
+            "Frontend Development",
+            "UI Design",
+            "Graphic Design"
+          ],
+          "url": null
+        },
+        {
+          "title": "PDPA Hackathon",
+          "description": "Participated in a hackathon focused on personal data protection, learning about PDPA requirements and how to apply privacy considerations to software and database design.",
+          "tech": [
+            "PDPA",
+            "Software Design",
+            "Database Design"
+          ],
+          "url": null
+        }
+      ],
+      "contacts": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "sawita.zene@gmail.com"
+        }
+      ]
+    },
+    {
+      "slug": "stamp",
+      "name": "ปัณณธร บุ้งทอง",
+      "nickname": "Stamp",
+      "role": "AI Engineer & DevOps",
+      "bio": "Third-year student in Artificial Intelligence Engineering and Data Science at Bangkok University. Interested in applying data-driven approaches to business strategy, marketing, and machine learning. Focuses on building AI applications, data systems, and reliable development and deployment workflows.",
+      "skills": [
+        "Python",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Machine Learning",
+        "Data Science",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "PostgreSQL",
+        "Supabase",
+        "Docker",
+        "Git",
+        "GitLab",
+        "React",
+        "Express",
+        "CI/CD",
+        "Tableau",
+        "Power BI",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "avatarUrl": null,
+      "projects": [
+        {
+          "title": "Digital Asset KYC & AML Transaction Monitoring System",
+          "description": "Designed a database system for a centralized digital asset exchange, covering customer KYC, account management, transaction monitoring, and AML risk analysis. Developed 22 tables, 7 analytical views, 16 analytical SQL queries, and an AI chatbot that answers natural-language questions using database information.",
+          "tech": [
+            "PostgreSQL",
+            "Supabase",
+            "SQL",
+            "LLM-powered Chatbot"
+          ],
+          "url": null
+        },
+        {
+          "title": "AI Hackathon Route Optimization 2026",
+          "description": "Reached the Top 21 by developing an optimization approach for concrete delivery routes for SCG CPAC, aiming to improve transportation efficiency.",
+          "tech": [
+            "Python",
+            "Optimization",
+            "Data Analysis"
+          ],
+          "url": null
+        },
+        {
+          "title": "OIL SHOCK HACK! 2026",
+          "description": "Reached the Top 9 by analyzing fuel policy data from 154 countries to investigate relationships between price controls and systemic failures.",
+          "tech": [
+            "Data Analysis",
+            "Python",
+            "Research"
+          ],
+          "url": null
+        },
+        {
+          "title": "AIHack Thailand 2025",
+          "description": "Reached the Top 8 by developing a machine learning model to predict long-overdue debtors using credit data.",
+          "tech": [
+            "Python",
+            "Machine Learning",
+            "Data Preprocessing",
+            "Feature Engineering"
+          ],
+          "url": null
+        },
+        {
+          "title": "Thailand Real Estate Case Competition 2025",
+          "description": "Reached the Top 20 by developing a strategic proposal for real estate development in Bangkok's central business district.",
+          "tech": [
+            "Business Strategy",
+            "Data Analysis",
+            "Real Estate"
+          ],
+          "url": null
+        },
+        {
+          "title": "ART SALAM - Marketing",
+          "description": "Worked in administration and marketing from March to April 2026. Developed data-driven marketing strategies, contributing to a 52.1% increase in Instagram content views and a 48.5% increase in Facebook content views, with more than 390K total views and 15.7K interactions.",
+          "tech": [
+            "Marketing Analytics",
+            "Data-driven Strategy",
+            "Social Media"
+          ],
+          "url": null
+        }
+      ],
+      "contacts": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "punnatronbungthong@gmail.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/* =====================================
+   RESPONSIVE DESIGN REFERENCE
+
+   Existing page-specific media queries remain in App.css during STEP 16.2
+   so their current cascade and layout behavior are preserved.
+
+   Breakpoints currently present in the project:
+   - 850px: tablet / main layout adjustments
+   - 750px: footer layout adjustments
+   - 700px: selected portfolio and chat adjustments
+   - 600px: mobile layout
+   - 560px: compact navbar
+   - 480px: narrow mobile footer adjustments
+   - 360px: small mobile adjustments
+
+   CSS custom properties cannot be used directly in standard @media queries.
+   Consolidation and visual verification are reserved for STEP 16.4.
+===================================== */
